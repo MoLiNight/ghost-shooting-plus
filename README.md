@@ -1,17 +1,19 @@
 
 # 【Construct 3】ghost-shooting-plus - Lab1 Blog 
 
+Game URL：https://molinight.github.io/ghost-shooting-plus/
+
+---
+
 ## 一、实验/学习工具
 
-Construct 在线游戏编程工具： 
-https://editor.construct.net
+Construct 在线游戏编程工具： https://editor.construct.net
 
 ---
 
 ## 二、实验资料
 
-Construct 2 初学入门教程：
-https://www.construct.net/en/tutorials/construct2-1808 
+Construct 2 初学入门教程：https://www.construct.net/en/tutorials/construct2-1808 
 
 ---
 
