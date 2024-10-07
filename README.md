@@ -3,6 +3,8 @@
 
 Game URL：https://molinight.github.io/ghost-shooting-plus/
 
+Video URL: https://www.bilibili.com/video/BV1b1tDepEun/
+
 ---
 
 ## 一、实验/学习工具
